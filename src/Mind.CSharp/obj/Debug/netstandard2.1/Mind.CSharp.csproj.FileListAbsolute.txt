@@ -1,0 +1,9 @@
+C:\Users\kbnea\OneDrive\Documents\GitHub\mind-csharp\src\Mind.CSharp\bin\Debug\netstandard2.1\Mind.CSharp.deps.json
+C:\Users\kbnea\OneDrive\Documents\GitHub\mind-csharp\src\Mind.CSharp\bin\Debug\netstandard2.1\Mind.CSharp.dll
+C:\Users\kbnea\OneDrive\Documents\GitHub\mind-csharp\src\Mind.CSharp\bin\Debug\netstandard2.1\Mind.CSharp.pdb
+C:\Users\kbnea\OneDrive\Documents\GitHub\mind-csharp\src\Mind.CSharp\obj\Debug\netstandard2.1\Mind.CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbnea\OneDrive\Documents\GitHub\mind-csharp\src\Mind.CSharp\obj\Debug\netstandard2.1\Mind.CSharp.AssemblyInfoInputs.cache
+C:\Users\kbnea\OneDrive\Documents\GitHub\mind-csharp\src\Mind.CSharp\obj\Debug\netstandard2.1\Mind.CSharp.AssemblyInfo.cs
+C:\Users\kbnea\OneDrive\Documents\GitHub\mind-csharp\src\Mind.CSharp\obj\Debug\netstandard2.1\Mind.CSharp.csproj.CoreCompileInputs.cache
+C:\Users\kbnea\OneDrive\Documents\GitHub\mind-csharp\src\Mind.CSharp\obj\Debug\netstandard2.1\Mind.CSharp.dll
+C:\Users\kbnea\OneDrive\Documents\GitHub\mind-csharp\src\Mind.CSharp\obj\Debug\netstandard2.1\Mind.CSharp.pdb
