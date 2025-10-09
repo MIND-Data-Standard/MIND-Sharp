@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.1;net8.0</TargetFrameworks>
+    <AssemblyName>MindFrame.Core</AssemblyName>
+    <PackageId>MindFrame.Core</PackageId>
+    <Version>0.1.0</Version>
+    <PackageDescription>MindFrame Core primitives, enums, types, and records.</PackageDescription>
+    <PackageTags>mind;mindframe;xr;data;core</PackageTags>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="..\..\Packages\MindFrame\Core\**\*.cs" Exclude="**\*.meta" />
+  </ItemGroup>
+</Project>
+

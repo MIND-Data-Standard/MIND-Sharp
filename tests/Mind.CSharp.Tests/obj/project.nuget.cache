@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bZJkgpfzGYU=",
+  "dgSpecHash": "VTVlejlBf+E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kbnea\\OneDrive\\Documents\\GitHub\\mind-csharp\\tests\\Mind.CSharp.Tests\\Mind.CSharp.Tests.csproj",
+  "projectFilePath": "C:\\Users\\kbnea\\OneDrive\\Documents\\GitHub\\MIND\\MINDFrame-CSharp\\tests\\Mind.CSharp.Tests\\Mind.CSharp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kbnea\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\kbnea\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

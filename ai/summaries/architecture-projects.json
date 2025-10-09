@@ -1,0 +1,44 @@
+﻿{
+    "generatedAtUtc":  "2025-10-09T09:23:16.5710881Z",
+    "session":  "s1",
+    "kind":  "architecture-projects",
+    "projectCount":  6,
+    "projects":  [
+                     {
+                         "project":  "src\\Mind.CSharp\\MindFrame.Core\\MindFrame.Core.csproj",
+                         "targetFrameworks":  {
+
+                                              }
+                     },
+                     {
+                         "project":  "src\\Mind.CSharp\\MindFrame.ModelIO\\MindFrame.ModelIO.csproj",
+                         "targetFrameworks":  {
+
+                                              }
+                     },
+                     {
+                         "project":  "src\\Mind.CSharp\\MindFrame.Serialization\\MindFrame.Serialization.csproj",
+                         "targetFrameworks":  {
+
+                                              }
+                     },
+                     {
+                         "project":  "src\\Mind.CSharp\\MindFrame.Tests\\MindFrame.Tests.csproj",
+                         "targetFrameworks":  {
+
+                                              }
+                     },
+                     {
+                         "project":  "src\\Mind.CSharp\\MindFrame.Validation\\MindFrame.Validation.csproj",
+                         "targetFrameworks":  {
+
+                                              }
+                     },
+                     {
+                         "project":  "tests\\Mind.CSharp.Tests\\Mind.CSharp.Tests.csproj",
+                         "targetFrameworks":  {
+
+                                              }
+                     }
+                 ]
+}

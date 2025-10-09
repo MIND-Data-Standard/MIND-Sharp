@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MindFrame.Core</name>
+    </assembly>
+    <members>
+        <member name="T:MindFrame.Core.Primitives.MindVector3">
+            <summary>Three-dimensional vector (X,Y,Z in metres).</summary>
+        </member>
+        <member name="T:MindFrame.Core.Primitives.MindQuaternion">
+            <summary>Quaternion rotation (W,X,Y,Z).</summary>
+        </member>
+        <member name="T:MindFrame.Core.Primitives.MindTimestamp">
+            <summary>Timestamp in seconds since Unix epoch.</summary>
+        </member>
+        <member name="T:MindFrame.Core.Types.MindPose">
+            <summary>Position + rotation (no scale) with reference space.</summary>
+        </member>
+        <member name="T:MindFrame.Core.Types.MindTransform">
+            <summary>Position + rotation + scale with reference space.</summary>
+        </member>
+    </members>
+</doc>

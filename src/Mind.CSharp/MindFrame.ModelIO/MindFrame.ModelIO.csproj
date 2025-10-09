@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.1;net8.0</TargetFrameworks>
+    <AssemblyName>MindFrame.ModelIO</AssemblyName>
+    <PackageId>MindFrame.ModelIO</PackageId>
+    <Version>0.1.0</Version>
+    <PackageDescription>MindFrame exporters (JSONL and future formats).</PackageDescription>
+    <PackageTags>mind;mindframe;export;jsonl</PackageTags>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MindFrame.Core\MindFrame.Core.csproj" />
+    <ProjectReference Include="..\MindFrame.Serialization\MindFrame.Serialization.csproj" />
+    <Compile Include="..\..\Packages\MindFrame\ModelIO\**\*.cs" Exclude="**\*.meta" />
+  </ItemGroup>
+</Project>
+

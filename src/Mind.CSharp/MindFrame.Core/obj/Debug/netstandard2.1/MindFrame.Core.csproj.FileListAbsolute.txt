@@ -1,0 +1,11 @@
+C:\Users\kbnea\OneDrive\Documents\GitHub\MIND\MIND-UnityProject\src\MindFrame.Core\obj\Debug\netstandard2.1\MindFrame.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbnea\OneDrive\Documents\GitHub\MIND\MIND-UnityProject\src\MindFrame.Core\obj\Debug\netstandard2.1\MindFrame.Core.AssemblyInfoInputs.cache
+C:\Users\kbnea\OneDrive\Documents\GitHub\MIND\MIND-UnityProject\src\MindFrame.Core\obj\Debug\netstandard2.1\MindFrame.Core.AssemblyInfo.cs
+C:\Users\kbnea\OneDrive\Documents\GitHub\MIND\MIND-UnityProject\src\MindFrame.Core\obj\Debug\netstandard2.1\MindFrame.Core.csproj.CoreCompileInputs.cache
+C:\Users\kbnea\OneDrive\Documents\GitHub\MIND\MIND-UnityProject\src\MindFrame.Core\bin\Debug\netstandard2.1\MindFrame.Core.deps.json
+C:\Users\kbnea\OneDrive\Documents\GitHub\MIND\MIND-UnityProject\src\MindFrame.Core\bin\Debug\netstandard2.1\MindFrame.Core.dll
+C:\Users\kbnea\OneDrive\Documents\GitHub\MIND\MIND-UnityProject\src\MindFrame.Core\bin\Debug\netstandard2.1\MindFrame.Core.pdb
+C:\Users\kbnea\OneDrive\Documents\GitHub\MIND\MIND-UnityProject\src\MindFrame.Core\bin\Debug\netstandard2.1\MindFrame.Core.xml
+C:\Users\kbnea\OneDrive\Documents\GitHub\MIND\MIND-UnityProject\src\MindFrame.Core\obj\Debug\netstandard2.1\MindFrame.Core.dll
+C:\Users\kbnea\OneDrive\Documents\GitHub\MIND\MIND-UnityProject\src\MindFrame.Core\obj\Debug\netstandard2.1\MindFrame.Core.xml
+C:\Users\kbnea\OneDrive\Documents\GitHub\MIND\MIND-UnityProject\src\MindFrame.Core\obj\Debug\netstandard2.1\MindFrame.Core.pdb

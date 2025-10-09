@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.1;net8.0</TargetFrameworks>
+    <AssemblyName>MindFrame.Serialization</AssemblyName>
+    <PackageId>MindFrame.Serialization</PackageId>
+    <Version>0.1.0</Version>
+    <PackageDescription>MindFrame JSON facade + converters.</PackageDescription>
+    <PackageTags>mind;mindframe;json;serialization</PackageTags>
+  </PropertyGroup>
+  <PropertyGroup>
+    <DefineConstants>$(DefineConstants);MIND_CANONICAL_NEWTONSOFT</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MindFrame.Core\MindFrame.Core.csproj" />
+    <Compile Include="..\..\Packages\MindFrame\Serialization\**\*.cs" Exclude="**\*.meta" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+</Project>
+

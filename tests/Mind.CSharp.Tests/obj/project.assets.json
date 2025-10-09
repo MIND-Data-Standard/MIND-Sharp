@@ -411,16 +411,6 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
-      },
-      "Mind.CSharp/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
-        "compile": {
-          "bin/placeholder/Mind.CSharp.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Mind.CSharp.dll": {}
-        }
       }
     }
   },
@@ -942,17 +932,11 @@
         "xunit.runner.visualstudio.2.8.2.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
-    },
-    "Mind.CSharp/1.0.0": {
-      "type": "project",
-      "path": "../../src/Mind.CSharp/Mind.CSharp.csproj",
-      "msbuildProject": "../../src/Mind.CSharp/Mind.CSharp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.NET.Test.Sdk >= 17.12.0",
-      "Mind.CSharp >= 1.0.0",
       "coverlet.collector >= 6.0.2",
       "xunit >= 2.9.2",
       "xunit.runner.visualstudio >= 2.8.2"
@@ -965,11 +949,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kbnea\\OneDrive\\Documents\\GitHub\\mind-csharp\\tests\\Mind.CSharp.Tests\\Mind.CSharp.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\kbnea\\OneDrive\\Documents\\GitHub\\MIND\\MINDFrame-CSharp\\tests\\Mind.CSharp.Tests\\Mind.CSharp.Tests.csproj",
       "projectName": "Mind.CSharp.Tests",
-      "projectPath": "C:\\Users\\kbnea\\OneDrive\\Documents\\GitHub\\mind-csharp\\tests\\Mind.CSharp.Tests\\Mind.CSharp.Tests.csproj",
+      "projectPath": "C:\\Users\\kbnea\\OneDrive\\Documents\\GitHub\\MIND\\MINDFrame-CSharp\\tests\\Mind.CSharp.Tests\\Mind.CSharp.Tests.csproj",
       "packagesPath": "C:\\Users\\kbnea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kbnea\\OneDrive\\Documents\\GitHub\\mind-csharp\\tests\\Mind.CSharp.Tests\\obj\\",
+      "outputPath": "C:\\Users\\kbnea\\OneDrive\\Documents\\GitHub\\MIND\\MINDFrame-CSharp\\tests\\Mind.CSharp.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -990,11 +974,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "C:\\Users\\kbnea\\OneDrive\\Documents\\GitHub\\mind-csharp\\src\\Mind.CSharp\\Mind.CSharp.csproj": {
-              "projectPath": "C:\\Users\\kbnea\\OneDrive\\Documents\\GitHub\\mind-csharp\\src\\Mind.CSharp\\Mind.CSharp.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

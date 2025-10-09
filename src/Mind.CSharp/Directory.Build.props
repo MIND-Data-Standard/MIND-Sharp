@@ -1,9 +1,27 @@
-<Project>
+﻿<Project>
   <PropertyGroup>
+    <!-- existing props -->
     <LangVersion>latest</LangVersion>
     <Nullable>enable</Nullable>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <Deterministic>true</Deterministic>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <ImplicitUsings>enable</ImplicitUsings>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryType>git</RepositoryType>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <PackageProjectUrl>https://github.com/REPO_PLACEHOLDER</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/REPO_PLACEHOLDER.git</RepositoryUrl>
     <Authors>SilicoLabs</Authors>
     <Company>SilicoLabs</Company>
+    <Description>MindFrame structural layer (SDK-style build artifacts)</Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <!-- Temporarily suppress missing XML comment warnings until docs authored -->
+    <NoWarn>$(NoWarn);1591</NoWarn>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="8.0.0" PrivateAssets="All" />
+  </ItemGroup>
 </Project>

@@ -1,0 +1,40 @@
+﻿{
+    "generatedAtUtc":  "2025-10-09T09:23:16.5710881Z",
+    "session":  "s1",
+    "kind":  "namespace-distribution",
+    "namespaceCount":  8,
+    "namespaces":  [
+                       {
+                           "namespace":  "MindFrame.Core.Enums",
+                           "fileCount":  1
+                       },
+                       {
+                           "namespace":  "MindFrame.Core.Primitives",
+                           "fileCount":  4
+                       },
+                       {
+                           "namespace":  "MindFrame.Core.Records",
+                           "fileCount":  4
+                       },
+                       {
+                           "namespace":  "MindFrame.Core.Types",
+                           "fileCount":  2
+                       },
+                       {
+                           "namespace":  "MindFrame.ModelIO",
+                           "fileCount":  2
+                       },
+                       {
+                           "namespace":  "MindFrame.Serialization",
+                           "fileCount":  2
+                       },
+                       {
+                           "namespace":  "MindFrame.Tests",
+                           "fileCount":  3
+                       },
+                       {
+                           "namespace":  "MindFrame.Validation",
+                           "fileCount":  16
+                       }
+                   ]
+}

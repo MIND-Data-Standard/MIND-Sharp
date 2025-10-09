@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.1;net8.0</TargetFrameworks>
+    <AssemblyName>MindFrame.Validation</AssemblyName>
+    <PackageId>MindFrame.Validation</PackageId>
+    <Version>0.1.0</Version>
+    <PackageDescription>MindFrame validation layer (structural validators).</PackageDescription>
+    <PackageTags>mind;mindframe;validation</PackageTags>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MindFrame.Core\MindFrame.Core.csproj" />
+    <ProjectReference Include="..\MindFrame.Serialization\MindFrame.Serialization.csproj" />
+    <Compile Include="..\..\Packages\MindFrame\Validation\**\*.cs" Exclude="**\*.meta" />
+  </ItemGroup>
+</Project>
+

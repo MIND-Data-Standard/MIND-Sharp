@@ -1,0 +1,59 @@
+﻿# -------------------------------------------------
+# Core .NET build artifacts
+bin/
+obj/
+**/bin/
+**/obj/
+
+# IDE / tooling
+.vs/
+*.user
+*.swp
+*.suo
+*.userprefs
+*.idea/
+
+# Build outputs / packaging
+*.nupkg
+*.snupkg
+packages/
+TestResults/
+
+# Logs / temp
+*.log
+*.tmp
+~$*
+
+# Private AI / GPT context (never commit raw session dumps)
+contexts/
+ai-local/
+*.gpt-context.json
+*.ai-context.json
+
+# Optional local sandbox
+sandbox/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Rider / JetBrains scratch settings are outside repo normally
+
+# Prevent accidental commit of large vector/embedding indexes
+*.embeddings
+*.vector.index
+
+# If you generate coverage locally
+coverage/
+
+# Node / tooling caches if any appear later
+node_modules/
+
+# Keep empty tracked directories if needed with .keep files
+
+# -------------------------------------------------
+# NOTE: The folder `contexts/` is intentionally ignored to hold private
+# GPT session context or raw transcripts. Summarize into tracked artifacts via
+# scripts under `ai/scripts/` if you want stable, shareable context.
+# -------------------------------------------------
+
